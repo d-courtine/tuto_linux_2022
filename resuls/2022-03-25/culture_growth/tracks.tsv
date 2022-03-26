@@ -1,0 +1,18 @@
+sampleID	time(mn)	OD600
+bactA01	0	100
+bactA01	5	102
+bactA01	10	110
+bactA01	15	150
+bactA01	20	180
+bactA01	25	200
+bactA01	30	210
+bactA01	35	212
+bactB03	0	85
+bactB03	5	95
+bactB03	10	130
+bactB03	15	185
+bactB03	20	220
+bactB03	25	290
+bactB03	30	350
+bactB03	35	450
+
